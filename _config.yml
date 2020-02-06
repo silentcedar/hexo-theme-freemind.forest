@@ -1,4 +1,4 @@
-slogan: "wubba lubba dub dub."
+slogan: "Life goes on."
 
 show_heart: true
 
@@ -21,15 +21,15 @@ menu:
     url: about
     intro: "About me."
     # icon: "fa fa-user"
-  - title: RSS
-    url: atom.xml
-    intro: "Subscribe me."
+  #- title: RSS
+  #  url: atom.xml
+  #  intro: "Subscribe me."
     # icon: "fa fa-user"
 
 links:
-  - title: hexo-theme-bithack
-    url: https://github.com/Ares-X/hexo-theme-freemind.bithack
-    intro: ""
+  - title: GitHub
+    url: https://github.com/silentcedar
+    intro: "Follow me on GitHub!"
     icon: false
 
   # - title: "My LinkedIn"
