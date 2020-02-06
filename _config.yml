@@ -52,22 +52,23 @@ favicon: favicon.png
 
 # Analytics (change to yours)
 google_analytics:
-  enable: true
-  siteid: UA-70812759-1
+  enable: false
+  siteid:
 baidu_tongji:
-  enable: true
-  siteid: cb5448498d7169c668b07c2b255d62c1
+  enable: false
+  siteid:
 
 # search
 #swiftype_key: ZP2ZSuHgipSZfRyU8uTR
 #valine comment (change to yours)
 valine: 
   enable: true
-  appid:  
-  appkey: 
+  appid: CIBO7vsEezgtVzq8O8TDlcXJ-MdYXbMMI
+  appkey: YtxIKSA0Ewfg8bvOkr7VhfK1
+  lang: en
   verify: false
   notify: false 
-  placeholder: "提交评论时留下邮箱收到回复后将自动通知"
+  placeholder: "Feel free to leave a message :)"
   visitor: true
 
 
