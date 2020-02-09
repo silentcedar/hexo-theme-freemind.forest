@@ -3,10 +3,9 @@ Hexo-Theme-freemind.bithack
 
 ![screenshot](https://i.loli.net/2019/12/29/lIi6JXUCj45MGtk.png)
 
-freemind.bithack modified by freemind.386 ,changed some colour combination and font.
-add support of valine comment.
+freemind.bithack modified by freemind.bithack, changed some color combination and font.
 
-* [Demo](http://ares-x.com)
+* [Demo](https://silentcedar.github.io)
 * [Readme in Chinese](http://ares-x.com/2019/12/29/freemind-bithack-readme-zh/)
 
 ## Requirements ##
